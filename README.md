@@ -7,7 +7,7 @@ In the application, select the file with the code to convert and run the process
 
 In addition, the folder with the application also contains test Python code, so you can test the application's performance. The test code is a program that displays the Hello World message in a window application.
 
-The program uses Python, which must be installed on the computer. In addition, you need pyinstaller, you can install it using the command “pip install pyinstaller “ in the console.
+The program uses Python, which must be installed on the computer. In addition, you need pyinstaller, you can install it using the command “pip install pyinstaller“ in the console.
 
 
 
